@@ -1,5 +1,4 @@
 <template>
-  <router-view></router-view>
   <tabbar>
     <tabbar-item path="/home" activeColor="deeppink">
       <template v-slot:item-iconfont>
